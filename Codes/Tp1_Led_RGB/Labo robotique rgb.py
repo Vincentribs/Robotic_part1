@@ -1,5 +1,6 @@
 from machine import Pin
 import time
+#test sa mère
 
 R = Pin(19, Pin.OUT)
 B = Pin(16, Pin.OUT)
